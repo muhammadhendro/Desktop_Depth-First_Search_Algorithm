@@ -1,0 +1,70 @@
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+C:\Users\flintz\Videos\Latihan  Console C++\searching algorithms c# form\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+D:\Semester 2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+C:\Users\flintz\Downloads\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
+C:\Users\flintz\Music\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Music\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Music\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+C:\Users\flintz\Music\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+D:\Semester 2\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe.config
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\bin\Debug\DFS_klmpk2.exe
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\bin\Debug\DFS_klmpk2.pdb
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.csprojResolveAssemblyReference.cache
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.about.resources
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.DFS.resources
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.Properties.Resources.resources
+C:\Users\flintz\Downloads\Compressed\TUGAS_ALGO_Kelompok_Algoritma_DFS\TUGAS_ALGO_Kelompok_Algoritma_DFS\DFS_ALPRO\DFS_klmpk2\obj\Debug\DFS_klmpk2.csproj.GenerateResource.Cache
