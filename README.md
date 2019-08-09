@@ -7,7 +7,9 @@ Fakultas / Prodi: FTIK/Informatika
 Dosen: Agus Mulyanto, S.Kom., M.T 
 Email : agus.mulyanto@teknokrat.ac.id
 
-Algoritma pencarian DFS (Depth First Search)
+Tugas Akhir Algoritma Pemrograman dengan menggunakan algoritma DFS (Depth First Search)
+ 
+ 
  
  referensi :  https://rextester.com/YUYX6886, https://github.com/sakatimuna7/Projek-BFS
  
