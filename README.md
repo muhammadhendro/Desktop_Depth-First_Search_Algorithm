@@ -11,7 +11,7 @@ Tugas Akhir Algoritma Pemrograman dengan menggunakan algoritma pencarian graph D
  
  <p align="center"><img src="TugasAkhir_alpro_DFS.gif"></p>
  
- referensi :  https://rextester.com/YUYX6886, https://github.com/sakatimuna7/Projek-BFS
+ referensi : <br> https://rextester.com/YUYX6886 <br> https://github.com/sakatimuna7/Projek-BFS <br>
  
  
  
