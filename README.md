@@ -9,7 +9,7 @@ Email : agus.mulyanto@teknokrat.ac.id
 
 Tugas Akhir Algoritma Pemrograman dengan menggunakan algoritma pencarian graph DFS (Depth First Search)
  
- <p align="center"><img src="TugasAkhir_alpro_DFS"></p>
+ <p align="center"><img src="TugasAkhir_alpro_DFS.gif"></p>
  
  referensi :  https://rextester.com/YUYX6886, https://github.com/sakatimuna7/Projek-BFS
  
